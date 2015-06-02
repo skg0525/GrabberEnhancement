@@ -1,0 +1,7 @@
+<spider root='https://129.219.253.30:80/~level01/'>
+	<url type='anchor'>https://129.219.253.30:80/~level01///register</url>
+	<url type='anchor'>https://129.219.253.30:80/~level01///login</url>
+	<url type='JavaScript'>https://129.219.253.30:80/~level01/</url>
+	<url type='JavaScript'>https://129.219.253.30:80/~level01///static/js/bootstrap.min.js</url>
+	<url type='MetaLink'>https://129.219.253.30:80/~level01///static/css/bootstrap.min.css</url>
+</spider>

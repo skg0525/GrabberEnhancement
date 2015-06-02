@@ -1,0 +1,22 @@
+Source: grabber
+Section: net
+Priority: extra
+Maintainer: Devon Kearns <dookie@kali.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://rgaucher.info/beta/grabber/
+Vcs-Git: ssh://git@git.kali.org/packages/grabber.git
+Vcs-Browser: http://git.kali.org/gitweb/?p=packages/grabber.git;a=summary
+
+Package: grabber
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python, python-beautifulsoup, python-libxml2
+Conflicts: liballegro4.2-dev
+Description: Web application vulnerability scanner
+ Grabber is a web application scanner. Basically it detects 
+ some kind of vulnerabilities in your website.
+ Grabber is simple, not fast but portable and really 
+ adaptable. This software is designed to scan small websites 
+ such as personals, forums etc. absolutely not big 
+ application: it would take too long time and flood your 
+ network.

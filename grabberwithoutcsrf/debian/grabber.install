@@ -1,0 +1,10 @@
+debian/helper-script/* usr/bin
+*.py usr/share/grabber/
+*.xml usr/share/grabber/
+*.bat usr/share/grabber/
+*.lwp usr/share/grabber/
+*.log usr/share/grabber/
+*.conf usr/share/grabber/
+*.ini usr/share/grabber/
+*.pyc usr/share/grabber/
+results usr/share/grabber/

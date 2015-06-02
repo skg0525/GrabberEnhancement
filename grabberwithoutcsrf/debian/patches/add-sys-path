@@ -1,0 +1,23 @@
+Added a sys.path.append to the grabber.py script so it
+looks under /usr/share/grabber/ for the rest of the files
+it needs.
+
+--- a/grabber.py
++++ b/grabber.py
+@@ -3,13 +3,15 @@
+ 	Grabber Core v0.1
+ 	Copyright (C) 2006 - Romain Gaucher - http://rgaucher.info
+ """
++import sys
++sys.path.append("/usr/share/grabber/")
+ from BeautifulSoup import BeautifulSoup
+ from xml.sax import *	# Need PyXML [http://pyxml.sourceforge.net/]
+ from optparse import OptionParser
+ from urllib2 import URLError, HTTPError
+ import urllib
+ import time
+-import re,sys,os
++import re,os
+ 
+ # Personal libraries
+ from spider import database, database_css, database_js

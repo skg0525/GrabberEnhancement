@@ -1,0 +1,23 @@
+grabber (0.1-1kali4) kali; urgency=low
+
+  * Added a helper script (Closes: 0001245)
+
+ -- Devon Kearns <dookie@kali.org>  Fri, 16 May 2014 12:37:31 -0600
+
+grabber (0.1-1kali3) kali; urgency=low
+
+  * Added a Conflicts entry in the control file.
+
+ -- Devon Kearns <dookie@kali.org>  Mon, 08 Apr 2013 11:01:33 -0600
+
+grabber (0.1-1kali2) kali; urgency=low
+
+  * Removed the desktop file
+
+ -- Devon Kearns <dookie@kali.org>  Wed, 05 Dec 2012 08:29:37 -0700
+
+grabber (0.1-1kali1) kali; urgency=low
+
+  * Initial release 
+
+ -- Devon Kearns <dookie@kali.org>  Thu, 06 Dec 2012 08:27:04 -0700

